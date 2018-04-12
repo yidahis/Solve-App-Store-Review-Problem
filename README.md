@@ -75,6 +75,8 @@
 [审核][注册功能被拒绝原因分析和解决方案,审核认为没必要提前让用户注册](https://github.com/wg689/Solve-App-Store-Review-Problem/blob/master/purchase_wechatLoginSharePay.md#%E9%97%AE%E9%A2%98%E8%A2%AB%E6%8B%92%E7%BB%9D%E6%B3%A8%E5%86%8C%E5%8A%9F%E8%83%BD)
 
 [审核][有objectionable(反感的讨厌的) and offensive(不愉快的)被拒绝](https://github.com/wg689/Solve-App-Store-Review-Problem/blob/master/sex_offensive.md)
+
+[审核][订阅,拒你百次都不够](https://github.com/wg689/Solve-App-Store-Review-Problem/blob/master/subscriptions.md)
 ## 审核奇巧淫技(广泛使用 会被发现,发现概率 小于3% )
 [问题][如何隐藏部分功能](https://github.com/wg689/Solve-App-Store-Review-Problem/blob/master/sex_offensive.md#%E9%97%AE%E9%A2%98%E5%A6%82%E4%BD%95%E9%9A%90%E8%97%8F%E9%83%A8%E5%88%86%E5%8A%9F%E8%83%BD)
 
