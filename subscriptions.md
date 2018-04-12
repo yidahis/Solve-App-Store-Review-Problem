@@ -1,10 +1,17 @@
-#订阅
-###不能误导用户进行订阅
-Safety - 1.1.6 Your app misleads users into starting a paid auto-renewable subscription. Misleading users to initiate an auto-renewing subscription is not acceptable for the App Store. 
- 你的应用误导用户启动付费的自动更新订阅。在App Store中，误导用户启动自动更新订阅是不可接受的。
- 例如：在用户引导页介绍完功能特点后直接放置一个订阅按钮被拒。
+# 订阅
+
+### 不能误导用户进行订阅
+
+Safety - 1.1.6
+Your app misleads users into starting a paid auto-renewable subscription. Misleading users to initiate an auto-renewing subscription is not acceptable for the App Store.
+
+
+你的应用误导用户启动付费的自动更新订阅。在App Store中，误导用户启动自动更新订阅是不可接受的。
+
+例如：在用户引导页介绍完功能特点后直接放置一个订阅按钮被拒。
+
 ###	 用户订阅前必须清楚看到订阅信息
- Business - 3.1.2
+Business - 3.1.2
 Your app did not fully meet the terms and conditions for auto-renewing subscriptions, as specified in Schedule 2, section 3.8(b) of the Paid Applications agreement. 
 
 The auto-renewing subscription information must be displayed within the app itself, and it must be displayed clearly and conspicuously during the purchase flow without requiring additional action from the user, such as opening a link. Currently, it is not clear in your app there is additional information that requires users to scroll to view. 
